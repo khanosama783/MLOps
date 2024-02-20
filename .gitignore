@@ -171,3 +171,6 @@ mlruns/*
 
 #data
 *.parquet
+
+#Model
+*.bin
